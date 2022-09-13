@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Title } from './Statistics.styled';
+import { Title } from './StyledStatistics.styled';
 
 
 export const StatisticTitle = ({ title }) => {
