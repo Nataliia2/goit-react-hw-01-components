@@ -1,9 +1,9 @@
 import user from './data/user';
-import { Profil } from './Profil.jsx/profil';
+import { Profil } from './Profil/profil';
 import statistics from './data/statistics';
-import { Statistics } from './Statistics.jsx/Statistics';
+import { Statistics } from './Statistics/Statistics';
 import friends from './data/friends';
-import { FriendList } from './FriendList.jsx/FriendList';
+import { FriendList } from './FriendList/FriendList';
 import transactions from './data/transactions';
 import { TransactionHistory } from './TransactionHistory.jsx/TransactionHistory';
 
